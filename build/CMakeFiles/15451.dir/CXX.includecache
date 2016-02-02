@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kai/ClionProjects/15451/SplayTree.cpp
+SplayTree.h
+/Users/kai/ClionProjects/15451/SplayTree.h
+
+/Users/kai/ClionProjects/15451/SplayTree.h
+iostream
+-
+lib/Node.h
+/Users/kai/ClionProjects/15451/lib/Node.h
+
+/Users/kai/ClionProjects/15451/lib/Node.cpp
+Node.h
+/Users/kai/ClionProjects/15451/lib/Node.h
+
+/Users/kai/ClionProjects/15451/lib/Node.h
+iostream
+-
+
+/Users/kai/ClionProjects/15451/main.cpp
+iostream
+-
+lib/Node.h
+/Users/kai/ClionProjects/15451/lib/Node.h
+SplayTree.h
+/Users/kai/ClionProjects/15451/SplayTree.h
+
